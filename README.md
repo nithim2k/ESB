@@ -1,1 +1,8 @@
-# ESB
+![Appache install in Linux](https://github.com/user-attachments/assets/d94f92a5-a35b-4dbb-82e3-213dbcd51cfc)
+![WEB SERVER (IIS) INSTALLED IN WINDOWS](https://github.com/user-attachments/assets/c25725fb-51e9-4ccf-9115-45cf34967700)
+![Volume created for Windows](https://github.com/user-attachments/assets/d66d52a0-84d3-4540-9ee7-727f6a0d703b)
+![Volume for linux](https://github.com/user-attachments/assets/1a4dabea-fd7b-415e-87a2-7d31d9fc3b98)
+![EBS of 5gb added to Windows](https://github.com/user-attachments/assets/d91b86da-f53b-4f84-b393-d646b6906af1)
+![ESB of 5gb mounted in Linux](https://github.com/user-attachments/assets/82592402-26f8-4abd-9645-da786b87cd3f)
+![Disk block in Linux](https://github.com/user-attachments/assets/6a288370-25a4-439b-97b6-1ab111244a1c)
+![Snapshot](https://github.com/user-attachments/assets/cfa194f2-acb5-4f90-8705-812268b27832)
